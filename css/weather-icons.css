@@ -1,6 +1,6 @@
 /*!
- *  Weather Icons 2.0.8
- *  Updated September 19, 2015
+ *  Weather Icons 2.0
+ *  Updated August 1, 2015
  *  Weather themed icons for Bootstrap
  *  Author - Erik Flowers - erik@helloerik.com
  *  Email: erik@helloerik.com
@@ -1835,4 +1835,382 @@
 }
 .wi-wu-unknown:before {
   content: "\f00d";
+}
+.wi-wz-possible-thunderstorm:before {
+  content: "\f01e";
+}
+.wi-wz-clearing_shower:before {
+  content: "\f01a";
+}
+.wi-wz-cloudy:before {
+  content: "\f013";
+}
+.wi-wz-cloud_and_wind_increasing:before {
+  content: "\f011";
+}
+.wi-wz-cloud_increasing:before {
+  content: "\f002";
+}
+.wi-wz-drizzle:before {
+  content: "\f01a";
+}
+.wi-wz-drizzle_clearing:before {
+  content: "\f009";
+}
+.wi-wz-fog_then_sunny:before {
+  content: "\f003";
+}
+.wi-wz-frost_then_sunny:before {
+  content: "\f003";
+}
+.wi-wz-hazy:before {
+  content: "\f0b6";
+}
+.wi-wz-heavy_rain:before {
+  content: "\f019";
+}
+.wi-wz-heavy_showers:before {
+  content: "\f019";
+}
+.wi-wz-increasing_sunshine:before {
+  content: "\f002";
+}
+.wi-wz-late_shower:before {
+  content: "\f009";
+}
+.wi-wz-late_thunder:before {
+  content: "\f010";
+}
+.wi-wz-mostly_cloudy:before {
+  content: "\f013";
+}
+.wi-wz-mostly_sunny:before {
+  content: "\f00d";
+}
+.wi-wz-overcast:before {
+  content: "\f013";
+}
+.wi-wz-possible_shower:before {
+  content: "\f006";
+}
+.wi-wz-possible_thunderstorm:before {
+  content: "\f010";
+}
+.wi-wz-rain:before {
+  content: "\f019";
+}
+.wi-wz-rain_and_snow:before {
+  content: "\f017";
+}
+.wi-wz-rain_clearing:before {
+  content: "\f008";
+}
+.wi-wz-rain_developing:before {
+  content: "\f008";
+}
+.wi-wz-rain_tending_to_snow:before {
+  content: "\f017";
+}
+.wi-wz-showers:before {
+  content: "\f01a";
+}
+.wi-wz-showers_easing:before {
+  content: "\f009";
+}
+.wi-wz-showers_increasing:before {
+  content: "\f009";
+}
+.wi-wz-snow:before {
+  content: "\f01b";
+}
+.wi-wz-snowfalls_clearing:before {
+  content: "\f00a";
+}
+.wi-wz-snow_developing:before {
+  content: "\f00a";
+}
+.wi-wz-snow_showers:before {
+  content: "\f0b5";
+}
+.wi-wz-snow_tending_to_rain:before {
+  content: "\f017";
+}
+.wi-wz-sunny:before {
+  content: "\f00d";
+}
+.wi-wz-thunderstorms:before {
+  content: "\f01e";
+}
+.wi-wz-thunderstorms_clearing:before {
+  content: "\f010";
+}
+.wi-wz-windy:before {
+  content: "\f021";
+}
+.wi-wz-windy_with_rain:before {
+  content: "\f018";
+}
+.wi-wz-windy_with_showers:before {
+  content: "\f018";
+}
+.wi-wz-windy_with_snow:before {
+  content: "\f064";
+}
+.wi-wz-wind_and_rain_increasing:before {
+  content: "\f018";
+}
+.wi-wz-wind_and_showers_easing:before {
+  content: "\f018";
+}
+.wi-wz-day-possible-thunderstorm:before {
+  content: "\f010";
+}
+.wi-wz-day-clearing_shower:before {
+  content: "\f009";
+}
+.wi-wz-day-cloudy:before {
+  content: "\f002";
+}
+.wi-wz-day-cloud_and_wind_increasing:before {
+  content: "\f000";
+}
+.wi-wz-day-cloud_increasing:before {
+  content: "\f002";
+}
+.wi-wz-day-drizzle:before {
+  content: "\f009";
+}
+.wi-wz-day-drizzle_clearing:before {
+  content: "\f009";
+}
+.wi-wz-day-fog_then_sunny:before {
+  content: "\f003";
+}
+.wi-wz-day-frost_then_sunny:before {
+  content: "\f003";
+}
+.wi-wz-day-hazy:before {
+  content: "\f0b6";
+}
+.wi-wz-day-heavy_rain:before {
+  content: "\f008";
+}
+.wi-wz-day-heavy_showers:before {
+  content: "\f008";
+}
+.wi-wz-day-increasing_sunshine:before {
+  content: "\f002";
+}
+.wi-wz-day-late_shower:before {
+  content: "\f009";
+}
+.wi-wz-day-late_thunder:before {
+  content: "\f010";
+}
+.wi-wz-day-mostly_cloudy:before {
+  content: "\f002";
+}
+.wi-wz-day-mostly_sunny:before {
+  content: "\f00d";
+}
+.wi-wz-day-overcast:before {
+  content: "\f002";
+}
+.wi-wz-day-possible_shower:before {
+  content: "\f006";
+}
+.wi-wz-day-possible_thunderstorm:before {
+  content: "\f010";
+}
+.wi-wz-day-rain:before {
+  content: "\f008";
+}
+.wi-wz-day-rain_and_snow:before {
+  content: "\f006";
+}
+.wi-wz-day-rain_clearing:before {
+  content: "\f008";
+}
+.wi-wz-day-rain_developing:before {
+  content: "\f008";
+}
+.wi-wz-day-rain_tending_to_snow:before {
+  content: "\f006";
+}
+.wi-wz-day-showers:before {
+  content: "\f009";
+}
+.wi-wz-day-showers_easing:before {
+  content: "\f009";
+}
+.wi-wz-day-showers_increasing:before {
+  content: "\f009";
+}
+.wi-wz-day-snow:before {
+  content: "\f00a";
+}
+.wi-wz-day-snowfalls_clearing:before {
+  content: "\f00a";
+}
+.wi-wz-day-snow_developing:before {
+  content: "\f00a";
+}
+.wi-wz-day-snow_showers:before {
+  content: "\f0b2";
+}
+.wi-wz-day-snow_tending_to_rain:before {
+  content: "\f006";
+}
+.wi-wz-day-sunny:before {
+  content: "\f00d";
+}
+.wi-wz-day-thunderstorms:before {
+  content: "\f010";
+}
+.wi-wz-day-thunderstorms_clearing:before {
+  content: "\f010";
+}
+.wi-wz-day-windy:before {
+  content: "\f085";
+}
+.wi-wz-day-windy_with_rain:before {
+  content: "\f007";
+}
+.wi-wz-day-windy_with_showers:before {
+  content: "\f007";
+}
+.wi-wz-day-windy_with_snow:before {
+  content: "\f065";
+}
+.wi-wz-day-wind_and_rain_increasing:before {
+  content: "\f007";
+}
+.wi-wz-day-wind_and_showers_easing:before {
+  content: "\f007";
+}
+.wi-wz-night-possible-thunderstorm:before {
+  content: "\f03b";
+}
+.wi-wz-night-clearing_shower:before {
+  content: "\f037";
+}
+.wi-wz-night-cloudy:before {
+  content: "\f031";
+}
+.wi-wz-night-cloud_and_wind_increasing:before {
+  content: "\f02f";
+}
+.wi-wz-night-cloud_increasing:before {
+  content: "\f031";
+}
+.wi-wz-night-drizzle:before {
+  content: "\f037";
+}
+.wi-wz-night-drizzle_clearing:before {
+  content: "\f037";
+}
+.wi-wz-night-fog_then_sunny:before {
+  content: "\f04a";
+}
+.wi-wz-night-frost_then_sunny:before {
+  content: "\f04a";
+}
+.wi-wz-night-hazy:before {
+  content: "\f0b6";
+}
+.wi-wz-night-heavy_rain:before {
+  content: "\f036";
+}
+.wi-wz-night-heavy_showers:before {
+  content: "\f036";
+}
+.wi-wz-night-increasing_sunshine:before {
+  content: "\f031";
+}
+.wi-wz-night-late_shower:before {
+  content: "\f037";
+}
+.wi-wz-night-late_thunder:before {
+  content: "\f03b";
+}
+.wi-wz-night-mostly_cloudy:before {
+  content: "\f031";
+}
+.wi-wz-night-mostly_sunny:before {
+  content: "\f00d";
+}
+.wi-wz-night-overcast:before {
+  content: "\f031";
+}
+.wi-wz-night-possible_shower:before {
+  content: "\f034";
+}
+.wi-wz-night-possible_thunderstorm:before {
+  content: "\f03b";
+}
+.wi-wz-night-rain:before {
+  content: "\f036";
+}
+.wi-wz-night-rain_and_snow:before {
+  content: "\f034";
+}
+.wi-wz-night-rain_clearing:before {
+  content: "\f036";
+}
+.wi-wz-night-rain_developing:before {
+  content: "\f036";
+}
+.wi-wz-night-rain_tending_to_snow:before {
+  content: "\f034";
+}
+.wi-wz-night-showers:before {
+  content: "\f037";
+}
+.wi-wz-night-showers_easing:before {
+  content: "\f037";
+}
+.wi-wz-night-showers_increasing:before {
+  content: "\f037";
+}
+.wi-wz-night-snow:before {
+  content: "\f038";
+}
+.wi-wz-night-snowfalls_clearing:before {
+  content: "\f038";
+}
+.wi-wz-night-snow_developing:before {
+  content: "\f038";
+}
+.wi-wz-night-snow_showers:before {
+  content: "\f0b3";
+}
+.wi-wz-night-snow_tending_to_rain:before {
+  content: "\f034";
+}
+.wi-wz-night-sunny:before {
+  content: "\f00d";
+}
+.wi-wz-night-thunderstorms:before {
+  content: "\f03b";
+}
+.wi-wz-night-thunderstorms_clearing:before {
+  content: "\f03b";
+}
+.wi-wz-night-windy:before {
+  content: "\f030";
+}
+.wi-wz-night-windy_with_rain:before {
+  content: "\f035";
+}
+.wi-wz-night-windy_with_showers:before {
+  content: "\f035";
+}
+.wi-wz-night-windy_with_snow:before {
+  content: "\f066";
+}
+.wi-wz-night-wind_and_rain_increasing:before {
+  content: "\f035";
+}
+.wi-wz-night-wind_and_showers_easing:before {
+  content: "\f035";
 }
